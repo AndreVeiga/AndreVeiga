@@ -6,7 +6,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@VeigaSoutoAndre-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/VeigaSoutoAndre)](https://twitter.com/VeigaSoutoAndre) 
 [![Linkedin Badge](https://img.shields.io/badge/-andre%20machado-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-machado-074b4014b/)](https://www.linkedin.com/in/andre-machado-074b4014b/) 
-[![Gmail Badge](Email)](mailto:soutomachado1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-soutomachado1@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soutomachado1@gmail.com)](mailto:soutomachado1@gmail.com)
 
 
 Desenvolvedor Full Stack (Java 8 com SpringBoot, React, MySql, Oracle e Android nativo). Casado desde 2013, pai da fera Tiago (2017), apaixonado por tecnologia, aviação e Formula One.
