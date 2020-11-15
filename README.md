@@ -9,4 +9,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-soutomachado1@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soutomachado1@gmail.com)](mailto:soutomachado1@gmail.com)
 
 
-Desenvolvedor Full Stack (Java 8 com SpringBoot, React, MySql, Oracle e Android nativo). Casado desde 2013, pai da fera Tiago (2017), apaixonado por tecnologia, aviação e Formula One.
+Desenvolvedor Full Stack (Java 8 com SpringBoot, React, MySql, Oracle e Android nativo). Casado desde 2013, pai da fera Tiago (2017), apaixonado por tecnologia, aviação e Formula One. Desde 2016, discente no curso de bacharel em Sistema da Informação pela Universidade de Caxias do Sul.
