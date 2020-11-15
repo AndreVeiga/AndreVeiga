@@ -4,7 +4,7 @@
 ### Olá e seja bem-vindo 👋
 
 
-[![Twitter Badge](Twitter)](https://twitter.com/VeigaSoutoAndre) 
+[![Twitter Badge](https://img.shields.io/badge/-@VeigaSoutoAndre-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/VeigaSoutoAndre)](https://twitter.com/VeigaSoutoAndre) 
 [![Linkedin Badge](Linkedin)](https://www.linkedin.com/in/andre-machado-074b4014b/) 
 [![Gmail Badge](Email)](mailto:soutomachado1@gmail.com)
 
