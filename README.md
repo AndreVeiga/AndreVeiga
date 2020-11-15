@@ -5,7 +5,7 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@VeigaSoutoAndre-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/VeigaSoutoAndre)](https://twitter.com/VeigaSoutoAndre) 
-[![Linkedin Badge](Linkedin)](https://www.linkedin.com/in/andre-machado-074b4014b/) 
+[![Linkedin Badge](https://img.shields.io/badge/-andre%20machado-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-machado-074b4014b/)](https://www.linkedin.com/in/andre-machado-074b4014b/) 
 [![Gmail Badge](Email)](mailto:soutomachado1@gmail.com)
 
 
