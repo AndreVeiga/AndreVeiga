@@ -6,4 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-soutomachado1@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soutomachado1@gmail.com)](mailto:soutomachado1@gmail.com)
 
 
-Eu sou o Elton, mais conhecido como veigaandre. Sou desenvolvedor Back end (NodeJS). Casado desde 2013, pai da fera Tiago (2017), apaixonado por tecnologia, aviação e Formula One. Desde 2016, discente no curso de bacharel em Sistema da Informação pela Universidade de Caxias do Sul.
+Eu sou o Elton, mais conhecido como veigaandre. Sou desenvolvedor Backend e Frontend. Casado com a Fernanda desde 2013, pai do Tiago (2017), apaixonado por tecnologia, aviação e Formula One. Desde 2016, discente no curso de bacharel em Sistema da Informação pela Universidade de Caxias do Sul.
+
+Minha stacks de tecnologia são: Backend em Java com spring boot, NodeJS com typescript e atualmente me aventurando na linguagem Golang. No Frontend, minha stack é ReactJS mesmo. Mobile me arrisco pouco e bancos de dados trabalho com MYSQL, Postgres, Oracle e Redis (MongoDB também tenho algum conhecimento).
