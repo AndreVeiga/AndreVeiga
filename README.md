@@ -10,7 +10,7 @@ Eu sou o Elton André Veiga, mais conhecido como veigaandre. Sou desenvolvedor B
 
 Minha stacks de tecnologia são: Backend em Java com spring boot, NodeJS com typescript e atualmente me aventurando na linguagem Golang. No Frontend, minha stack é ReactJS mesmo. Mobile me arrisco pouco e bancos de dados trabalho com MYSQL, Postgres, Oracle e Redis (MongoDB também tenho algum conhecimento).
 
-<div align="center">
+<div>
   <a href="https://github.com/AndreVeiga">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreVeiga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreVeiga&show_icons=true&theme=dark"/>
