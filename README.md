@@ -4,8 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@veigaandre_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/veigaandre_)](https://twitter.com/veigaandre_) 
 [![Linkedin Badge](https://img.shields.io/badge/-andre%20machado-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-machado-074b4014b/)](https://www.linkedin.com/in/andre-machado-074b4014b/) 
 [![Gmail Badge](https://img.shields.io/badge/-soutomachado1@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soutomachado1@gmail.com)](mailto:soutomachado1@gmail.com)
-
-[![Twitter Badge](https://img.shields.io/badge/-@veigaandre_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/veigaandre_)](https://andreveiga.github.io/portifolio/)
+[![Site Badge](![Website](https://img.shields.io/website?color=green&up_color=green))](https://andreveiga.github.io/portifolio/)
 
 
 
