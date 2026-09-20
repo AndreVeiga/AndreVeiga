@@ -9,9 +9,3 @@
 
 
 Eu sou o Elton André Veiga, desenvolvedor Backend e Frontend. Casado com a Fernanda desde 2013, pai do Tiago (2017), apaixonado por tecnologia, aviação e Formula One. Desde 2016, discente no curso de bacharel em Sistema da Informação pela Universidade de Caxias do Sul. Algumas stacks de tecnologia são: Java com spring boot, NodeJS com typescript. No Frontend, minha stack é ReactJS e VueJS.
-
-<div>
-  <a href="https://github.com/AndreVeiga">
-  <img height="325em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreVeiga&show_icons=true&theme=dark"/>
-  </a>
-</div>
